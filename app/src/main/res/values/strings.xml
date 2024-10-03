@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="background_image">background image</string>
+    <string name="mom_child">mother hugging child</string>
+    <string name="main_text">Happy Mother\'s Day To You</string>
+    <string name="support_text">You are the best!</string>
+</resources>
